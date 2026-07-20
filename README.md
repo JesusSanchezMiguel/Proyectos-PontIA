@@ -182,6 +182,6 @@ Este repositorio reúne distintos proyectos prácticos desarrollados durante el 
 
 # 👨‍💻 Autor
 
-**[Tu Nombre]**
+**[Jesus Sanchez Miguel]**
 
 Repositorio desarrollado como parte del **Máster de Inteligencia Artificial de PontIA**.
